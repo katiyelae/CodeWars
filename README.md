@@ -1,5 +1,5 @@
 # CodeWars Challenges: [Visit Here](https://www.codewars.com/users/katic0des_). 
-This repository is filled with code challenges (katas). I've currently completed 92 katas and push 3-5 katas per week!
+This repository is filled with code challenges (katas). I've currently completed 92 katas and push katas as often as I can!
 
 **How It's Made:** 
 - Javascript
